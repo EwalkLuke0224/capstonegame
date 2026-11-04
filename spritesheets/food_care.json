@@ -1,0 +1,96 @@
+{
+ "cell": 48,
+ "columns": 8,
+ "sprites": {
+  "bag_of_bird_seed": {
+   "x": 0,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bag_of_hamster_seeds": {
+   "x": 48,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "big_bag_of_cat_food_with_a_fish_picture": {
+   "x": 96,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "big_bag_of_dog_food_with_a_bone_picture": {
+   "x": 144,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bone_shaped_dog_biscuit": {
+   "x": 192,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bowl_of_dry_kibble": {
+   "x": 240,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bowl_of_water_for_pets": {
+   "x": 288,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bundle_of_hay_for_bunnies": {
+   "x": 336,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "catnip_plant_in_a_pot": {
+   "x": 0,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "fish_shaped_cat_treat": {
+   "x": 48,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "jar_of_dog_treats_with_a_bone_picture": {
+   "x": 96,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "little_medicine_bottle_for_pets": {
+   "x": 144,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "open_can_of_cat_food": {
+   "x": 192,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "paw_print_cookie": {
+   "x": 240,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "shaker_of_fish_food": {
+   "x": 288,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  }
+ }
+}

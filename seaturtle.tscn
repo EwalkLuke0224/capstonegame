@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cqgy2rx4ja2j6"]
+
+[ext_resource type="Texture2D" uid="uid://cigp65i6lnimk" path="res://companions/sea_turtle/sea_turle_16x16.png" id="1_8tjxw"]
+
+[node name="Node2D" type="Node2D" unique_id=828439491]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1222217118]
+position = Vector2(-6.371212, -5.60606)
+scale = Vector2(0.74955434, 0.8006379)
+texture = ExtResource("1_8tjxw")
+region_enabled = true
+region_rect = Rect2(79.07408, 30.814814, 17.370361, 19.814816)

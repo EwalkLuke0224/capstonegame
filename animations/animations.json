@@ -1,0 +1,226 @@
+[
+ {
+  "animal": "bunny",
+  "type": "idle",
+  "frames": [
+   "bunny_idle_1.png",
+   "bunny_idle_2.png",
+   "bunny_idle_3.png",
+   "bunny_idle_4.png"
+  ],
+  "strip": "bunny_idle_strip.png",
+  "width": 37,
+  "height": 33,
+  "fps": 4
+ },
+ {
+  "animal": "calico_kitten",
+  "type": "walk",
+  "frames": [
+   "calico_kitten_walk_1.png",
+   "calico_kitten_walk_2.png",
+   "calico_kitten_walk_3.png",
+   "calico_kitten_walk_4.png"
+  ],
+  "strip": "calico_kitten_walk_strip.png",
+  "width": 41,
+  "height": 34,
+  "fps": 6
+ },
+ {
+  "animal": "corgi",
+  "type": "idle",
+  "frames": [
+   "corgi_idle_1.png",
+   "corgi_idle_2.png",
+   "corgi_idle_3.png",
+   "corgi_idle_4.png"
+  ],
+  "strip": "corgi_idle_strip.png",
+  "width": 40,
+  "height": 35,
+  "fps": 4
+ },
+ {
+  "animal": "corgi",
+  "type": "walk",
+  "frames": [
+   "corgi_walk_1.png",
+   "corgi_walk_2.png",
+   "corgi_walk_3.png",
+   "corgi_walk_4.png"
+  ],
+  "strip": "corgi_walk_strip.png",
+  "width": 43,
+  "height": 35,
+  "fps": 6
+ },
+ {
+  "animal": "dalmatian_puppy",
+  "type": "idle",
+  "frames": [
+   "dalmatian_puppy_idle_1.png",
+   "dalmatian_puppy_idle_2.png",
+   "dalmatian_puppy_idle_3.png",
+   "dalmatian_puppy_idle_4.png"
+  ],
+  "strip": "dalmatian_puppy_idle_strip.png",
+  "width": 44,
+  "height": 41,
+  "fps": 4
+ },
+ {
+  "animal": "golden_retriever",
+  "type": "idle",
+  "frames": [
+   "golden_retriever_idle_1.png",
+   "golden_retriever_idle_2.png",
+   "golden_retriever_idle_3.png",
+   "golden_retriever_idle_4.png"
+  ],
+  "strip": "golden_retriever_idle_strip.png",
+  "width": 50,
+  "height": 31,
+  "fps": 4
+ },
+ {
+  "animal": "golden_retriever",
+  "type": "walk",
+  "frames": [
+   "golden_retriever_walk_1.png",
+   "golden_retriever_walk_2.png",
+   "golden_retriever_walk_3.png",
+   "golden_retriever_walk_4.png"
+  ],
+  "strip": "golden_retriever_walk_strip.png",
+  "width": 54,
+  "height": 36,
+  "fps": 6
+ },
+ {
+  "animal": "grey_cat",
+  "type": "idle",
+  "frames": [
+   "grey_cat_idle_1.png",
+   "grey_cat_idle_2.png",
+   "grey_cat_idle_3.png",
+   "grey_cat_idle_4.png"
+  ],
+  "strip": "grey_cat_idle_strip.png",
+  "width": 44,
+  "height": 29,
+  "fps": 4
+ },
+ {
+  "animal": "hamster",
+  "type": "idle",
+  "frames": [
+   "hamster_idle_1.png",
+   "hamster_idle_2.png",
+   "hamster_idle_3.png",
+   "hamster_idle_4.png"
+  ],
+  "strip": "hamster_idle_strip.png",
+  "width": 30,
+  "height": 36,
+  "fps": 4
+ },
+ {
+  "animal": "pug",
+  "type": "walk",
+  "frames": [
+   "pug_walk_1.png",
+   "pug_walk_2.png",
+   "pug_walk_3.png",
+   "pug_walk_4.png"
+  ],
+  "strip": "pug_walk_strip.png",
+  "width": 43,
+  "height": 32,
+  "fps": 6
+ },
+ {
+  "animal": "shiba_inu",
+  "type": "walk",
+  "frames": [
+   "shiba_inu_walk_1.png",
+   "shiba_inu_walk_2.png",
+   "shiba_inu_walk_3.png",
+   "shiba_inu_walk_4.png"
+  ],
+  "strip": "shiba_inu_walk_strip.png",
+  "width": 44,
+  "height": 39,
+  "fps": 6
+ },
+ {
+  "animal": "siamese_cat",
+  "type": "walk",
+  "frames": [
+   "siamese_cat_walk_1.png",
+   "siamese_cat_walk_2.png",
+   "siamese_cat_walk_3.png",
+   "siamese_cat_walk_4.png"
+  ],
+  "strip": "siamese_cat_walk_strip.png",
+  "width": 41,
+  "height": 33,
+  "fps": 6
+ },
+ {
+  "animal": "tabby_cat",
+  "type": "idle",
+  "frames": [
+   "tabby_cat_idle_1.png",
+   "tabby_cat_idle_2.png",
+   "tabby_cat_idle_3.png",
+   "tabby_cat_idle_4.png"
+  ],
+  "strip": "tabby_cat_idle_strip.png",
+  "width": 42,
+  "height": 44,
+  "fps": 4
+ },
+ {
+  "animal": "tabby_cat",
+  "type": "walk",
+  "frames": [
+   "tabby_cat_walk_1.png",
+   "tabby_cat_walk_2.png",
+   "tabby_cat_walk_3.png",
+   "tabby_cat_walk_4.png"
+  ],
+  "strip": "tabby_cat_walk_strip.png",
+  "width": 41,
+  "height": 34,
+  "fps": 6
+ },
+ {
+  "animal": "tuxedo_cat",
+  "type": "idle",
+  "frames": [
+   "tuxedo_cat_idle_1.png",
+   "tuxedo_cat_idle_2.png",
+   "tuxedo_cat_idle_3.png",
+   "tuxedo_cat_idle_4.png"
+  ],
+  "strip": "tuxedo_cat_idle_strip.png",
+  "width": 43,
+  "height": 41,
+  "fps": 4
+ },
+ {
+  "animal": "tuxedo_cat",
+  "type": "walk",
+  "frames": [
+   "tuxedo_cat_walk_1.png",
+   "tuxedo_cat_walk_2.png",
+   "tuxedo_cat_walk_3.png",
+   "tuxedo_cat_walk_4.png"
+  ],
+  "strip": "tuxedo_cat_walk_strip.png",
+  "width": 41,
+  "height": 34,
+  "fps": 6
+ }
+]

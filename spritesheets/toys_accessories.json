@@ -1,0 +1,138 @@
+{
+ "cell": 48,
+ "columns": 8,
+ "sprites": {
+  "blue_pet_harness": {
+   "x": 0,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "bottle_of_pet_shampoo_with_a_paw_picture": {
+   "x": 48,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "cat_bell_toy_on_a_spring": {
+   "x": 96,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "coiled_red_dog_leash": {
+   "x": 144,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "feather_wand_cat_toy": {
+   "x": 192,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "folded_knitted_pet_sweater": {
+   "x": 240,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "framed_photo_of_a_cat": {
+   "x": 288,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "grey_toy_mouse": {
+   "x": 336,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "jingle_ball_cat_toy": {
+   "x": 0,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "knotted_rope_tug_toy": {
+   "x": 48,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "pet_brush": {
+   "x": 96,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "pet_nail_clipper": {
+   "x": 144,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "pet_name_tag_shaped_like_a_bone": {
+   "x": 192,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "plush_fish_toy": {
+   "x": 240,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "red_dog_collar_with_a_heart_tag": {
+   "x": 288,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "red_frisbee": {
+   "x": 336,
+   "y": 48,
+   "w": 48,
+   "h": 48
+  },
+  "roll_of_poop_bags_in_a_paw_holder": {
+   "x": 0,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  },
+  "small_pet_carrier_bag_with_a_mesh_window": {
+   "x": 48,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  },
+  "spotted_dog_bandana": {
+   "x": 96,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  },
+  "squeaky_bone_toy": {
+   "x": 144,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  },
+  "tennis_ball": {
+   "x": 192,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  },
+  "tiny_aquarium_castle_ornament": {
+   "x": 240,
+   "y": 96,
+   "w": 48,
+   "h": 48
+  }
+ }
+}

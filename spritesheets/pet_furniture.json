@@ -1,0 +1,114 @@
+{
+ "cell": 80,
+ "columns": 8,
+ "sprites": {
+  "cardboard_cat_scratching_pad": {
+   "x": 0,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "cat_condo_tower_with_two_round_holes": {
+   "x": 80,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "cat_tunnel": {
+   "x": 160,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "hamster_cage_with_a_wheel_and_a_little_house": {
+   "x": 240,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "litter_box_with_a_scoop": {
+   "x": 320,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "patch_of_fake_grass_for_puppies": {
+   "x": 400,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "pet_teepee_tent_with_a_cushion": {
+   "x": 480,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "pet_water_fountain": {
+   "x": 560,
+   "y": 0,
+   "w": 80,
+   "h": 80
+  },
+  "raised_wooden_pet_feeding_station_with_two_bowls": {
+   "x": 0,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "round_goldfish_bowl_on_a_small_wooden_table": {
+   "x": 80,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "round_pet_cushion_with_paw_prints": {
+   "x": 160,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "small_dog_agility_jump_hurdle": {
+   "x": 240,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "small_indoor_bunny_pen_with_hay": {
+   "x": 320,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "small_puppy_playpen_with_toys_inside": {
+   "x": 400,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "small_tin_pet_bath_tub": {
+   "x": 480,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "turtle_terrarium_with_plants_and_a_rock": {
+   "x": 560,
+   "y": 80,
+   "w": 80,
+   "h": 80
+  },
+  "wooden_dog_crate_with_a_soft_blanket": {
+   "x": 0,
+   "y": 160,
+   "w": 80,
+   "h": 80
+  },
+  "wooden_pet_safety_gate": {
+   "x": 80,
+   "y": 160,
+   "w": 80,
+   "h": 80
+  }
+ }
+}

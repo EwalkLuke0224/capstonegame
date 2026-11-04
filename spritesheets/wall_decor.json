@@ -1,0 +1,60 @@
+{
+ "cell": 64,
+ "columns": 8,
+ "sprites": {
+  "framed_painting_of_a_dog": {
+   "x": 0,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "framed_paw_print_heart_picture": {
+   "x": 64,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "hanging_bird_swing_toy": {
+   "x": 128,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "paw_print_wall_sign": {
+   "x": 192,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "round_cat_window_perch": {
+   "x": 256,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "set_of_wooden_cat_wall_steps": {
+   "x": 320,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "wall_mounted_cat_hammock_shelf": {
+   "x": 384,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "wall_shelf_with_pet_treat_jars": {
+   "x": 448,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "wooden_leash_hook_rack_with_leashes": {
+   "x": 0,
+   "y": 64,
+   "w": 64,
+   "h": 64
+  }
+ }
+}

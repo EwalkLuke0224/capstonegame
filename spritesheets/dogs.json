@@ -1,0 +1,54 @@
+{
+ "cell": 64,
+ "columns": 8,
+ "sprites": {
+  "corgi_sitting": {
+   "x": 0,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "dachshund": {
+   "x": 64,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "dalmatian_puppy": {
+   "x": 128,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "fluffy_white_poodle": {
+   "x": 192,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "golden_retriever_lying_down": {
+   "x": 256,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "husky_puppy": {
+   "x": 320,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "pug": {
+   "x": 384,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "shiba_inu": {
+   "x": 448,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  }
+ }
+}

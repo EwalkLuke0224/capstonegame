@@ -1,0 +1,590 @@
+[
+ {
+  "name": "hamster_cage_with_a_wheel_and_a_little_house",
+  "category": "pet_furniture",
+  "width": 64,
+  "height": 49,
+  "variants": null
+ },
+ {
+  "name": "round_goldfish_bowl_on_a_small_wooden_table",
+  "category": "pet_furniture",
+  "width": 49,
+  "height": 62,
+  "variants": null
+ },
+ {
+  "name": "turtle_terrarium_with_plants_and_a_rock",
+  "category": "pet_furniture",
+  "width": 70,
+  "height": 53,
+  "variants": null
+ },
+ {
+  "name": "wooden_dog_crate_with_a_soft_blanket",
+  "category": "pet_furniture",
+  "width": 69,
+  "height": 64,
+  "variants": null
+ },
+ {
+  "name": "small_puppy_playpen_with_toys_inside",
+  "category": "pet_furniture",
+  "width": 72,
+  "height": 54,
+  "variants": null
+ },
+ {
+  "name": "cat_condo_tower_with_two_round_holes",
+  "category": "pet_furniture",
+  "width": 58,
+  "height": 73,
+  "variants": null
+ },
+ {
+  "name": "raised_wooden_pet_feeding_station_with_two_bowls",
+  "category": "pet_furniture",
+  "width": 63,
+  "height": 36,
+  "variants": null
+ },
+ {
+  "name": "small_indoor_bunny_pen_with_hay",
+  "category": "pet_furniture",
+  "width": 75,
+  "height": 56,
+  "variants": null
+ },
+ {
+  "name": "orange_tabby_cat_sitting",
+  "category": "cats",
+  "width": 38,
+  "height": 43,
+  "variants": null
+ },
+ {
+  "name": "grey_cat_sleeping_curled_up",
+  "category": "cats",
+  "width": 49,
+  "height": 34,
+  "variants": null
+ },
+ {
+  "name": "black_and_white_tuxedo_cat",
+  "category": "cats",
+  "width": 38,
+  "height": 45,
+  "variants": null
+ },
+ {
+  "name": "fluffy_white_persian_cat",
+  "category": "cats",
+  "width": 49,
+  "height": 42,
+  "variants": null
+ },
+ {
+  "name": "siamese_cat",
+  "category": "cats",
+  "width": 38,
+  "height": 47,
+  "variants": null
+ },
+ {
+  "name": "calico_kitten_playing_with_a_ball_of_yarn",
+  "category": "cats",
+  "width": 47,
+  "height": 52,
+  "variants": null
+ },
+ {
+  "name": "black_kitten_peeking_out_of_a_cardboard_box",
+  "category": "cats",
+  "width": 55,
+  "height": 46,
+  "variants": null
+ },
+ {
+  "name": "corgi_sitting",
+  "category": "dogs",
+  "width": 40,
+  "height": 51,
+  "variants": null
+ },
+ {
+  "name": "golden_retriever_lying_down",
+  "category": "dogs",
+  "width": 62,
+  "height": 44,
+  "variants": null
+ },
+ {
+  "name": "dalmatian_puppy",
+  "category": "dogs",
+  "width": 42,
+  "height": 46,
+  "variants": null
+ },
+ {
+  "name": "pug",
+  "category": "dogs",
+  "width": 45,
+  "height": 43,
+  "variants": null
+ },
+ {
+  "name": "fluffy_white_poodle",
+  "category": "dogs",
+  "width": 45,
+  "height": 51,
+  "variants": null
+ },
+ {
+  "name": "dachshund",
+  "category": "dogs",
+  "width": 53,
+  "height": 40,
+  "variants": null
+ },
+ {
+  "name": "husky_puppy",
+  "category": "dogs",
+  "width": 45,
+  "height": 52,
+  "variants": null
+ },
+ {
+  "name": "shiba_inu",
+  "category": "dogs",
+  "width": 43,
+  "height": 51,
+  "variants": null
+ },
+ {
+  "name": "lop_eared_bunny",
+  "category": "small_pets",
+  "width": 43,
+  "height": 41,
+  "variants": null
+ },
+ {
+  "name": "hamster_eating_a_seed",
+  "category": "small_pets",
+  "width": 27,
+  "height": 29,
+  "variants": null
+ },
+ {
+  "name": "guinea_pig",
+  "category": "small_pets",
+  "width": 38,
+  "height": 26,
+  "variants": null
+ },
+ {
+  "name": "budgie_on_a_perch_stand",
+  "category": "small_pets",
+  "width": 27,
+  "height": 45,
+  "variants": null
+ },
+ {
+  "name": "little_turtle",
+  "category": "small_pets",
+  "width": 39,
+  "height": 25,
+  "variants": null
+ },
+ {
+  "name": "cat_tunnel",
+  "category": "pet_furniture",
+  "width": 47,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "pet_teepee_tent_with_a_cushion",
+  "category": "pet_furniture",
+  "width": 46,
+  "height": 52,
+  "variants": null
+ },
+ {
+  "name": "litter_box_with_a_scoop",
+  "category": "pet_furniture",
+  "width": 48,
+  "height": 30,
+  "variants": null
+ },
+ {
+  "name": "big_bag_of_dog_food_with_a_bone_picture",
+  "category": "food_care",
+  "width": 40,
+  "height": 48,
+  "variants": null
+ },
+ {
+  "name": "big_bag_of_cat_food_with_a_fish_picture",
+  "category": "food_care",
+  "width": 38,
+  "height": 45,
+  "variants": null
+ },
+ {
+  "name": "pet_water_fountain",
+  "category": "pet_furniture",
+  "width": 38,
+  "height": 39,
+  "variants": null
+ },
+ {
+  "name": "cardboard_cat_scratching_pad",
+  "category": "pet_furniture",
+  "width": 43,
+  "height": 36,
+  "variants": null
+ },
+ {
+  "name": "round_pet_cushion_with_paw_prints",
+  "category": "pet_furniture",
+  "width": 50,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "small_tin_pet_bath_tub",
+  "category": "pet_furniture",
+  "width": 46,
+  "height": 30,
+  "variants": null
+ },
+ {
+  "name": "small_dog_agility_jump_hurdle",
+  "category": "pet_furniture",
+  "width": 48,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "wooden_pet_safety_gate",
+  "category": "pet_furniture",
+  "width": 46,
+  "height": 34,
+  "variants": null
+ },
+ {
+  "name": "patch_of_fake_grass_for_puppies",
+  "category": "pet_furniture",
+  "width": 44,
+  "height": 27,
+  "variants": null
+ },
+ {
+  "name": "bowl_of_dry_kibble",
+  "category": "food_care",
+  "width": 32,
+  "height": 24,
+  "variants": null
+ },
+ {
+  "name": "bowl_of_water_for_pets",
+  "category": "food_care",
+  "width": 32,
+  "height": 24,
+  "variants": null
+ },
+ {
+  "name": "open_can_of_cat_food",
+  "category": "food_care",
+  "width": 25,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "jar_of_dog_treats_with_a_bone_picture",
+  "category": "food_care",
+  "width": 26,
+  "height": 37,
+  "variants": null
+ },
+ {
+  "name": "bone_shaped_dog_biscuit",
+  "category": "food_care",
+  "width": 30,
+  "height": 18,
+  "variants": null
+ },
+ {
+  "name": "fish_shaped_cat_treat",
+  "category": "food_care",
+  "width": 31,
+  "height": 19,
+  "variants": null
+ },
+ {
+  "name": "catnip_plant_in_a_pot",
+  "category": "food_care",
+  "width": 32,
+  "height": 41,
+  "variants": null
+ },
+ {
+  "name": "feather_wand_cat_toy",
+  "category": "toys_accessories",
+  "width": 37,
+  "height": 36,
+  "variants": null
+ },
+ {
+  "name": "grey_toy_mouse",
+  "category": "toys_accessories",
+  "width": 35,
+  "height": 20,
+  "variants": null
+ },
+ {
+  "name": "jingle_ball_cat_toy",
+  "category": "toys_accessories",
+  "width": 22,
+  "height": 21,
+  "variants": null
+ },
+ {
+  "name": "squeaky_bone_toy",
+  "category": "toys_accessories",
+  "width": 36,
+  "height": 25,
+  "variants": null
+ },
+ {
+  "name": "tennis_ball",
+  "category": "toys_accessories",
+  "width": 23,
+  "height": 22,
+  "variants": null
+ },
+ {
+  "name": "knotted_rope_tug_toy",
+  "category": "toys_accessories",
+  "width": 38,
+  "height": 27,
+  "variants": null
+ },
+ {
+  "name": "red_frisbee",
+  "category": "toys_accessories",
+  "width": 33,
+  "height": 24,
+  "variants": null
+ },
+ {
+  "name": "plush_fish_toy",
+  "category": "toys_accessories",
+  "width": 36,
+  "height": 25,
+  "variants": null
+ },
+ {
+  "name": "coiled_red_dog_leash",
+  "category": "toys_accessories",
+  "width": 33,
+  "height": 31,
+  "variants": null
+ },
+ {
+  "name": "red_dog_collar_with_a_heart_tag",
+  "category": "toys_accessories",
+  "width": 31,
+  "height": 29,
+  "variants": null
+ },
+ {
+  "name": "blue_pet_harness",
+  "category": "toys_accessories",
+  "width": 32,
+  "height": 32,
+  "variants": null
+ },
+ {
+  "name": "pet_brush",
+  "category": "toys_accessories",
+  "width": 33,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "pet_nail_clipper",
+  "category": "toys_accessories",
+  "width": 29,
+  "height": 38,
+  "variants": null
+ },
+ {
+  "name": "bottle_of_pet_shampoo_with_a_paw_picture",
+  "category": "toys_accessories",
+  "width": 20,
+  "height": 40,
+  "variants": null
+ },
+ {
+  "name": "folded_knitted_pet_sweater",
+  "category": "toys_accessories",
+  "width": 35,
+  "height": 33,
+  "variants": null
+ },
+ {
+  "name": "spotted_dog_bandana",
+  "category": "toys_accessories",
+  "width": 36,
+  "height": 31,
+  "variants": null
+ },
+ {
+  "name": "bag_of_hamster_seeds",
+  "category": "food_care",
+  "width": 29,
+  "height": 37,
+  "variants": null
+ },
+ {
+  "name": "bundle_of_hay_for_bunnies",
+  "category": "food_care",
+  "width": 38,
+  "height": 32,
+  "variants": null
+ },
+ {
+  "name": "bag_of_bird_seed",
+  "category": "food_care",
+  "width": 28,
+  "height": 37,
+  "variants": null
+ },
+ {
+  "name": "shaker_of_fish_food",
+  "category": "food_care",
+  "width": 19,
+  "height": 35,
+  "variants": null
+ },
+ {
+  "name": "tiny_aquarium_castle_ornament",
+  "category": "toys_accessories",
+  "width": 33,
+  "height": 39,
+  "variants": null
+ },
+ {
+  "name": "roll_of_poop_bags_in_a_paw_holder",
+  "category": "toys_accessories",
+  "width": 26,
+  "height": 43,
+  "variants": null
+ },
+ {
+  "name": "framed_photo_of_a_cat",
+  "category": "toys_accessories",
+  "width": 33,
+  "height": 38,
+  "variants": null
+ },
+ {
+  "name": "paw_print_cookie",
+  "category": "food_care",
+  "width": 27,
+  "height": 26,
+  "variants": null
+ },
+ {
+  "name": "little_medicine_bottle_for_pets",
+  "category": "food_care",
+  "width": 18,
+  "height": 33,
+  "variants": null
+ },
+ {
+  "name": "pet_name_tag_shaped_like_a_bone",
+  "category": "toys_accessories",
+  "width": 31,
+  "height": 27,
+  "variants": null
+ },
+ {
+  "name": "cat_bell_toy_on_a_spring",
+  "category": "toys_accessories",
+  "width": 24,
+  "height": 40,
+  "variants": null
+ },
+ {
+  "name": "small_pet_carrier_bag_with_a_mesh_window",
+  "category": "toys_accessories",
+  "width": 35,
+  "height": 37,
+  "variants": null
+ },
+ {
+  "name": "set_of_wooden_cat_wall_steps",
+  "category": "wall_decor",
+  "width": 53,
+  "height": 49,
+  "variants": null
+ },
+ {
+  "name": "wall_mounted_cat_hammock_shelf",
+  "category": "wall_decor",
+  "width": 57,
+  "height": 31,
+  "variants": null
+ },
+ {
+  "name": "wooden_leash_hook_rack_with_leashes",
+  "category": "wall_decor",
+  "width": 51,
+  "height": 50,
+  "variants": null
+ },
+ {
+  "name": "framed_painting_of_a_dog",
+  "category": "wall_decor",
+  "width": 48,
+  "height": 48,
+  "variants": null
+ },
+ {
+  "name": "round_cat_window_perch",
+  "category": "wall_decor",
+  "width": 55,
+  "height": 56,
+  "variants": null
+ },
+ {
+  "name": "wall_shelf_with_pet_treat_jars",
+  "category": "wall_decor",
+  "width": 58,
+  "height": 42,
+  "variants": null
+ },
+ {
+  "name": "paw_print_wall_sign",
+  "category": "wall_decor",
+  "width": 47,
+  "height": 51,
+  "variants": null
+ },
+ {
+  "name": "hanging_bird_swing_toy",
+  "category": "wall_decor",
+  "width": 42,
+  "height": 56,
+  "variants": null
+ },
+ {
+  "name": "framed_paw_print_heart_picture",
+  "category": "wall_decor",
+  "width": 49,
+  "height": 46,
+  "variants": null
+ }
+]

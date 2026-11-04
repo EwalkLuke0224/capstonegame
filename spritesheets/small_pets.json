@@ -1,0 +1,36 @@
+{
+ "cell": 48,
+ "columns": 5,
+ "sprites": {
+  "budgie_on_a_perch_stand": {
+   "x": 0,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "guinea_pig": {
+   "x": 48,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "hamster_eating_a_seed": {
+   "x": 96,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "little_turtle": {
+   "x": 144,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  },
+  "lop_eared_bunny": {
+   "x": 192,
+   "y": 0,
+   "w": 48,
+   "h": 48
+  }
+ }
+}

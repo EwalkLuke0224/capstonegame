@@ -1,0 +1,48 @@
+{
+ "cell": 64,
+ "columns": 7,
+ "sprites": {
+  "black_and_white_tuxedo_cat": {
+   "x": 0,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "black_kitten_peeking_out_of_a_cardboard_box": {
+   "x": 64,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "calico_kitten_playing_with_a_ball_of_yarn": {
+   "x": 128,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "fluffy_white_persian_cat": {
+   "x": 192,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "grey_cat_sleeping_curled_up": {
+   "x": 256,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "orange_tabby_cat_sitting": {
+   "x": 320,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  },
+  "siamese_cat": {
+   "x": 384,
+   "y": 0,
+   "w": 64,
+   "h": 64
+  }
+ }
+}
