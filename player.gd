@@ -52,3 +52,10 @@ func _physics_process(delta):
 			animated_sprite.play("idle_down") # default fallback
 
 	move_and_slide()
+
+@export var battle_field: String = "res://Scenes/battle_field.tscn"
+
+func _input_event(viewport, event, shape_idx):
+	if event is InputEventMouseButton:
+		if event.button_index == MOUSE_BUTTON_LEFT and event.pressed:
+			get_tree().change_scene_to_file(battle_field)
